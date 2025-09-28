@@ -1,0 +1,3 @@
+﻿  ANN+GA.cpp
+C:\Users\Thejas\OneDrive - University of Moratuwa\Documents\Semester 4\Sensors Actuators and Intelligent Systems\Artificial Neural Network\Assignment\ANN+GA\ANN+GA\ANN+GA.cpp(228,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ANN+GA.vcxproj -> C:\Users\Thejas\OneDrive - University of Moratuwa\Documents\Semester 4\Sensors Actuators and Intelligent Systems\Artificial Neural Network\Assignment\ANN+GA\x64\Debug\ANN+GA.exe

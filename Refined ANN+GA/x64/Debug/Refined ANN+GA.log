@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Refined ANN+GA.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ANN+GA_2.0.cpp
+C:\Users\Thejas\OneDrive - University of Moratuwa\Documents\Semester 4\Sensors Actuators and Intelligent Systems\Artificial Neural Network\Assignment\Refined ANN+GA\ANN+GA_2.0.cpp(222,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Refined ANN+GA.vcxproj -> C:\Users\Thejas\OneDrive - University of Moratuwa\Documents\Semester 4\Sensors Actuators and Intelligent Systems\Artificial Neural Network\Assignment\ANN+GA\x64\Debug\ANN+GA 2.0.exe
